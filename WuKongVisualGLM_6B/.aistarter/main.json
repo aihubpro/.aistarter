@@ -1,0 +1,15 @@
+{
+  "name": "VisualGML-6B 悟空版",
+  "description": "VisualGLM-6B是一个强大的多模态对话语言模型,它结合了语言和图像处理能力,可以提供更丰富、更自然的交互体验。建议在8G以上显存运行~",
+  "version": "2024-05-03",
+  "install_dir": "WuKongVisualGLM_6B",
+  "author": "a@chenzhidong.com",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "VisualGLM-6B"
+  ],
+  "project_zip_size": 16496453
+}

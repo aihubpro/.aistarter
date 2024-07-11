@@ -1,0 +1,38 @@
+{
+  "name": "GPT-SoVITS",
+  "description": "GPT-SoVITS 是一款强大的支持少量语音转换、文本到语音的音色克隆模型。支持中文、英文、日文的语音推理。",
+  "version": "2024-04-29",
+  "install_dir": "GPT-SoVITS",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "Docker",
+    "docs",
+    "GPT_SoVITS",
+    "GPT_weights",
+    "i18n",
+    "logs",
+    "output",
+    "runtime",
+    "SoVITS_weights",
+    "TEMP",
+    "tools",
+    "__pycache__",
+    ".gitignore",
+    "api.py",
+    "config.py",
+    "docker-compose.yaml",
+    "Dockerfile",
+    "ffmpeg.exe",
+    "ffprobe.exe",
+    "install.sh",
+    "LICENSE",
+    "README.md",
+    "requirements.txt",
+    "webui.py"
+  ],
+  "project_zip_size": 5859882
+}

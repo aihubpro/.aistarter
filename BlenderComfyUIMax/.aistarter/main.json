@@ -1,0 +1,16 @@
+{
+  "name": "ComfyUI铁锅炖满血版",
+  "description": "ComfyUI铁锅炖满血版版一款强大的基于节点的界面，用于稳定扩散",
+  "version": "2024-04-28",
+  "install_dir": "BlenderComfyUIMax",
+  "author": "a@chenzhidong.com",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "Blender_ComfyUI",
+    "Workflow"
+  ],
+  "project_zip_size": 232969535
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Codeformer AI去马赛克(Niugee v1.0)",
+  "description": "CodeFormer采用了最先进神经网络AI技术，可以精准修复各种老旧、模糊、残缺、黑白的照片和视频，效果惊艳！",
+  "version": "2024-05-31",
+  "install_dir": "Codeformer_Niugee",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "codeformer-niugee",
+    "python-3.10.6"
+  ],
+  "project_zip_size": 2223085
+}

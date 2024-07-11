@@ -1,0 +1,16 @@
+{
+  "name": "Fooocus_2.1.864 中文版",
+  "description": "Fooocus 是一款功能强大的 AI 绘画神器，它能够帮助我们以更高效、更创意的方式进行绘画创作。",
+  "version": "2024-05-25",
+  "install_dir": "Fooocus_2_1_864",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "Fooocus",
+    "python_embeded"
+  ],
+  "project_zip_size": 32658983
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Chatglm Cpp",
+  "description": "ChatGLM3 是智谱AI和清华大学 KEG 实验室联合发布的新一代对话预训练模型。",
+  "version": "2024-04-29",
+  "install_dir": "ChatglmCpp",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [
+    "python-3.11.5"
+  ],
+  "compress_list": [
+    ".github",
+    "chatglm_cpp",
+    "docs",
+    "examples",
+    "python-3.11.5",
+    "tests",
+    "third_party",
+    "venv",
+    ".clang-format",
+    ".dockerignore",
+    ".gitignore",
+    ".gitmodules",
+    "chatglm.cpp",
+    "chatglm.h",
+    "chatglm3-ggml.bin",
+    "chatglm_pybind.cpp",
+    "chatglm_test.cpp",
+    "CMakeLists.txt",
+    "Dockerfile",
+    "LICENSE",
+    "main.cpp",
+    "MANIFEST.in",
+    "pyproject.toml",
+    "README.md",
+    "setup.py"
+  ],
+  "project_zip_size": 3640497
+}

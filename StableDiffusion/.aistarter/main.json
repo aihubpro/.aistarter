@@ -1,0 +1,21 @@
+{
+  "name": "Stable Diffusion Web UI",
+  "description": "Stable Diffusion Web UI 的一键启动器 (AUTOMATIC1111/stable-diffusion-webui)",
+  "version": "2024-04-23",
+  "install_dir": "StableDiffusion",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [
+    "python-3.10.6",
+    "git-2.43.0"
+  ],
+  "compress_list": [
+    ".cache",
+    "packages",
+    "stable-diffusion-webui",
+    "Third"
+  ],
+  "project_zip_size": 7160773
+}

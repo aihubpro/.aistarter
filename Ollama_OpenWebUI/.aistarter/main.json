@@ -1,0 +1,18 @@
+{
+  "name": "Ollama+OpenWebUI本地部署大模型",
+  "description": "基于ollama和open-webui,本地部署类似chatgpt的网页版大模型。内置Llama3和Qwen模型，可自行在webui添加或删除模型！",
+  "version": "2024-06-11",
+  "install_dir": "Ollama_OpenWebUI",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "models",
+    "ollama-windows-amd64",
+    "open-webui",
+    ".cache"
+  ],
+  "project_zip_size": 10119627
+}

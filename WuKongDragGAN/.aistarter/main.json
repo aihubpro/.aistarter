@@ -1,0 +1,15 @@
+{
+  "name": "DragGAN 悟空版",
+  "description": "DragGAN是一种基于深度学习的图像编辑技术,利用对抗生成网络(GAN)的结构,实现了对图像进行精细编辑的功能。",
+  "version": "2024-04-23",
+  "install_dir": "WuKongDragGAN",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "DragGAN"
+  ],
+  "project_zip_size": 6683780
+}

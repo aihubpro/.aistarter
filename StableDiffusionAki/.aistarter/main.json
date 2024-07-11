@@ -1,0 +1,15 @@
+{
+  "name": "Stable Diffusion Web UI 绘世版 v4.6.1",
+  "description": "绘世Stable Diffusion Web UI 的一键启动器，已经安装过绘世的可以免重新下载安装",
+  "version": "2024-04-23",
+  "install_dir": "StableDiffusionAki",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "sd-webui-aki-v4.6.1"
+  ],
+  "project_zip_size": 9220647
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Rope一键换脸AI",
+  "description": "Rope AI换脸软件，让你轻松实现逼真而创意的人脸替换，为照片和影片带来无限可能。",
+  "version": "2024-05-01",
+  "install_dir": "Rope",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "benchmark",
+    "models",
+    "packages",
+    "rope",
+    "Third",
+    "data.json",
+    "LICENSE",
+    "README.md",
+    "requirements.txt",
+    "Rope.bat",
+    "Rope.py"
+  ],
+  "project_zip_size": 4065628
+}

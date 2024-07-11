@@ -1,0 +1,16 @@
+{
+  "name": "Fooocus 2.3.1 A卡SimpleSDXL版（B站刁璐璐）",
+  "description": "基于Fooocus的魔改版本，更适合国人使用，不仅仅是界面的汉化，而且增加了中文适配等。AMD显卡版显存要求4G以上",
+  "version": "2024-05-21",
+  "install_dir": "SimpleSDXL_Amd_DLL_2_3_1",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "SimpleSDXL",
+    "python_embeded"
+  ],
+  "project_zip_size": 30963615
+}

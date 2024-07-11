@@ -1,0 +1,15 @@
+{
+  "name": "ComfyUI 绘世版 v1.3",
+  "description": "绘世ComfyUI V1.3版的一键启动器，已经安装过绘世的可以免重新下载安装",
+  "version": "2024-05-26",
+  "install_dir": "ComfyUI_Aki_1_3",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "ComfyUI-aki-v1.3"
+  ],
+  "project_zip_size": 5591622
+}

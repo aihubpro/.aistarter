@@ -1,0 +1,15 @@
+{
+  "name": "Easy-Wav2Lip+WebUI唇形合成",
+  "description": "Wav2Lip是一种基于深度学习的技术,旨在将音频与静态图像中的嘴部动作进行同步,生成逼真的口播视频。",
+  "version": "2024-04-23",
+  "install_dir": "EasyWav2LipWebUI",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "Easy-Wav2Lip-0229"
+  ],
+  "project_zip_size": 4349115
+}

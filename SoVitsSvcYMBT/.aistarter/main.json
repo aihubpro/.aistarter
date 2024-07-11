@@ -1,0 +1,16 @@
+{
+  "name": "SoVitsSvc4.0人声转换（羽毛布団）",
+  "description": "SoVitsSvc是一个开源的人声转换项目,它基于一个开源的歌声转换模型,通过提取源音频的语音特征,然后用一个生成式模型来合成目标音色的音频。",
+  "version": "2024-04-24",
+  "install_dir": "SoVitsSvcYMBT",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "so-vits-svc",
+    "免责声明-使用前必看.txt"
+  ],
+  "project_zip_size": 8138703
+}

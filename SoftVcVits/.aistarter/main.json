@@ -1,0 +1,15 @@
+{
+  "name": "SoftVC VITS歌声转换",
+  "description": "歌声转换模型使用 SoftVC 内容编码器从源音频中提取语音特征。",
+  "version": "2024-04-23",
+  "install_dir": "SoftVcVits",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "so-vits-svc-4.1"
+  ],
+  "project_zip_size": 8087660
+}

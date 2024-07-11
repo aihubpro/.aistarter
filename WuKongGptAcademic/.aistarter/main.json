@@ -1,0 +1,15 @@
+{
+  "name": "GPT Academic 3.4 悟空版",
+  "description": "GPT academic是一种专门为学术研究者和学生设计的。它使用预训练模型来生成与学术论文、文章和文献相关的文本，可以用于自然语言处理、机器翻译、文本摘要和其他相关的研究领域。",
+  "version": "2024-05-01",
+  "install_dir": "WuKongGptAcademic",
+  "author": "a@chenzhixiong.cn",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "GptAcademic"
+  ],
+  "project_zip_size": 14848383
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ComfyUI铁锅炖迷你版",
+  "description": "ComfyUI铁锅炖迷你版一款强大的基于节点的界面，用于稳定扩散",
+  "version": "2024-04-27",
+  "install_dir": "BlenderComfyUIMini",
+  "author": "a@chenzhidong.com",
+  "platforms": [
+    "win"
+  ],
+  "library": [],
+  "compress_list": [
+    "Blender_ComfyUI_Mini",
+    "Workflow"
+  ],
+  "project_zip_size": 5513058
+}

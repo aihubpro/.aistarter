@@ -11,6 +11,7 @@
 ## **社区强大**
 我们与用户保持密切沟通。您可以通过 **QQ、微信、论坛、Telegram、Twitter 和 Discord** 向我们提供反馈。
 
+## **最新版本: 2.0.6 LTS**
 ---
 
 **中文官网**: [https://www.starter.top/](https://www.starter.top/)
@@ -22,6 +23,6 @@
 **下载地址**: [https://www.starter.top/download/](https://www.starter.top/download/)
 
 **联系方式**:
+
 ![联系方式](https://www.starter.top/wp-content/uploads/2021/09/%E8%B7%B3%E8%BD%AC%E5%88%B0%E5%AE%98%E6%96%B9qun%E7%BD%91%E9%A1%B5846x444.png)
 
-**最新版本**: 2.0.6 LTS

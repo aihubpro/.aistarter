@@ -6,13 +6,13 @@
 
 <table>
   <tr>
-    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E9%A6%96%E9%A1%B5.png" width="100%" alt="软件图片演示1"></td>
+    <td><img src="https://www.aihubpro.cn/wp-content/uploads/2024/05/cn%E9%A6%96%E9%A1%B5-1.png" width="100%" alt="软件图片演示1"></td>
   </tr>
   <tr>
     <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E5%B8%82%E5%9C%BA.jpg" width="100%" alt="软件图片演示2"></td>
   </tr>
   <tr>
-    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E6%96%87%E4%BB%B6.jpg" width="100%" alt="软件图片演示3"></td>
+    <td><img src="https://www.aihubpro.cn/wp-content/uploads/2024/05/cn%E6%96%87%E4%BB%B6.jpg" width="100%" alt="软件图片演示3"></td>
   </tr>
   <tr>
     <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E8%AE%BE%E7%BD%AE.jpg" width="100%" alt="软件图片演示4"></td>

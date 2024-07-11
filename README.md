@@ -2,7 +2,22 @@
 
 **AIStarter** 是一款免费的AI项目管理平台，旨在让用户能够在 **Windows、Mac** 或 **Linux** 上 **快速轻松** 地下载、安装和分享各类热门 **AI开源项目**。
 
-![软件图集欣赏](https://www.starter.top/wp-content/uploads/2024/05/cn%E9%A6%96%E9%A1%B5.png)
+# 软件图片演示
+
+<table>
+  <tr>
+    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E9%A6%96%E9%A1%B5.png" width="100%" alt="软件图片演示1"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E5%B8%82%E5%9C%BA.jpg" width="100%" alt="软件图片演示2"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E6%96%87%E4%BB%B6.jpg" width="100%" alt="软件图片演示3"></td>
+  </tr>
+  <tr>
+    <td><img src="https://www.starter.top/wp-content/uploads/2024/05/cn%E8%AE%BE%E7%BD%AE.jpg" width="100%" alt="软件图片演示4"></td>
+  </tr>
+</table>
 
 ## **开箱即用**
 **最大亮点是开箱即用**，只需点击一下即可完成 **环境检测、部署、程序安装和优化**。不论您使用的是哪种操作系统，都能轻松零配置地开始使用各种强大的 **AI开源项目**。

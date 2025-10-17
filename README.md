@@ -1,6 +1,17 @@
 # 🧭 关于 AIStarter
 [中文](zh/1_about.md) | [English](en/1_about.md)
 
+## 📚 文档索引
+
+- [简介](zh/1_about.md)
+- [下载与安装](zh/2_download-installation.md)
+  - [Windows](zh/download-installation/windows.md)
+  - [macOS](zh/download-installation/mac.md)
+  - [Linux](zh/download-installation/linux.md)
+- [使用指南](zh/3_usage-guide.md)
+- [应用市场目录](zh/4_marketplace-catalog.md)
+- [AI 服务面板](zh/5_ai-server-panel.md)
+
 AIStarter 是一个面向未来的 **AI管理平台**。  
 它让个人与企业能够快速部署、管理和使用各类 AI 工具、模型、插件与工作流等，无需复杂环境配置。
 
@@ -86,16 +97,3 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 - 项目打包指导
 - 共创合作机会
 - 用户经验分享
-
----
-
-## 📚 文档索引
-
-- [简介](zh/1_about.md)
-- [下载与安装](zh/2_download-installation.md)
-  - [Windows](zh/download-installation/windows.md)
-  - [macOS](zh/download-installation/mac.md)
-  - [Linux](zh/download-installation/linux.md)
-- [使用指南](zh/3_usage-guide.md)
-- [应用市场目录](zh/4_marketplace-catalog.md)
-- [AI 服务面板](zh/5_ai-server-panel.md)

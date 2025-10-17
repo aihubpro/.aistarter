@@ -14,10 +14,7 @@ It helps individuals and teams quickly deploy, manage, and use AI tools, models,
 
 > "The Desktop Edition empowers individuals; the Server Edition empowers teams."
 
-<a href="#" class="not-prose inline-block" aria-label="查看图集"
-   data-images="./assets/home.png, ./assets/market.png, ./assets/settings.png, ./assets/file.png">
-    <img src="./assets/home.png" alt="预览图 1"/>
-</a>
+![AIStarter home](https://github.com/aihubpro/.aistarter/blob/main/assets/home.png)
 
 
 ## ⚙️ Key Features

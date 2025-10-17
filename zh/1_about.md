@@ -17,7 +17,6 @@ AIStarter 是一个面向未来的 **AI管理平台**。
 
 ![AIStarter界面](https://github.com/aihubpro/.aistarter/blob/main/assets/%E9%A6%96%E9%A1%B5.png)
 
-
 ## ⚙️ 主要特性
 
 - 🧩 一键启动所有主流 AI 应用（Ollama、ComfyUI、SD WebUI、RVC 等）  
@@ -84,5 +83,17 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 - 创作者技术支持
 - 项目打包指导
 - 共创合作机会
-
 - 用户经验分享
+
+---
+
+## 📚 文档索引
+
+- [简介](1_about.md)
+- [下载与安装](2_download-installation.md)
+  - [Windows](download-installation/windows.md)
+  - [macOS](download-installation/mac.md)
+  - [Linux](download-installation/linux.md)
+- [使用指南](3_usage-guide.md)
+- [应用市场目录](4_marketplace-catalog.md)
+- [AI 服务面板](5_ai-server-panel.md)

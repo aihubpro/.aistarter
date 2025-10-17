@@ -74,7 +74,9 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 ### 微信交流群
 扫描下方二维码，关注 AIStarter 公众号，获取最新版本与活动更新：
 
-![AIStarter 微信公众号二维码](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg "width=240 height=240")
+[<img src="https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg"
+    alt="Get it on F-Droid"
+    height="240">](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg)
 
 加群方式：添加微信 `zhongnuanxiong`，备注“AIStarter交流”。因微信群二维码有效期限制，管理员将统一邀请入群。
 
@@ -97,3 +99,4 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 - [使用指南](3_usage-guide.md)
 - [应用市场目录](4_marketplace-catalog.md)
 - [AI 服务面板](5_ai-server-panel.md)
+

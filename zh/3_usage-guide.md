@@ -1,3 +1,5 @@
+[中文](../zh/3_usage-guide.md) | [English](../en/3_usage-guide.md)
+
 # 🚀 使用指南
 
 ## ⚙️ 设置：开启开发者选项

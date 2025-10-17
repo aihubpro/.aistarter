@@ -1,3 +1,5 @@
+[中文](../zh/4_marketplace-catalog.md) | [English](../en/4_marketplace-catalog.md)
+
 ## 🧠 Marketplace Catalog
 
 AIStarter Marketplace continuously curates and updates a wide range of **AI projects, models, plugins, and workflows** across image generation, speech synthesis, video processing, large language models, and multimodal interaction. Everything supports **one‑click install, local run, and offline use** with no manual environment setup.

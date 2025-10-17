@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/mac.md) | [English](../../en/download-installation/mac.md)
+
 # 🍎 MacOS Installation
 
 Due to Gatekeeper, browser‑downloaded `.dmg` files may be blocked. Use Terminal to download to avoid issues.

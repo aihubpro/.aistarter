@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/linux.md) | [English](../../en/download-installation/linux.md)
+
 # 🐧 Linux Installation
 
 For convenience, here are one‑line commands by package type (RPM, DEB, AppImage). These commands are placeholder examples and will be replaced with real links and versions later.

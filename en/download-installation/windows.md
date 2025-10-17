@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/windows.md) | [English](../../en/download-installation/windows.md)
+
 # 🪟 Windows Installation
 
 ✅ Recommended: download and run the installer directly.

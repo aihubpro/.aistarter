@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/linux.md) | [English](../../en/download-installation/linux.md)
+
 # 🐧 Linux 安装
 
 为方便操作，这里提供按包类型的一条命令下载并安装示例（RPM、DEB、AppImage）。以下命令为占位示例，后续将替换为真实链接与版本号。

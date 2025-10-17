@@ -1,3 +1,5 @@
+[中文](../zh/1_about.md) | [English](../en/1_about.md)
+
 # 🧭 关于 AIStarter
 
 AIStarter 是一个面向未来的 **AI管理平台**。  

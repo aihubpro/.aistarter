@@ -1,3 +1,5 @@
+[中文](../zh/2_download-installation.md) | [English](../en/2_download-installation.md)
+
 # 📦 Download & Installation
 
 ## 🖥️ System Requirements

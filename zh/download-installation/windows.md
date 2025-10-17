@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/windows.md) | [English](../../en/download-installation/windows.md)
+
 # 🪟 Windows 安装
 
 ✅ 推荐方式：直接下载安装包

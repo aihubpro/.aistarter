@@ -1,3 +1,5 @@
+[中文](../../zh/download-installation/mac.md) | [English](../../en/download-installation/mac.md)
+
 # 🍎 MacOS 安装
 
 由于 MacOS 的 Gatekeeper 安全机制，浏览器下载的 `.dmg` 文件可能被拦截。建议通过终端命令下载以避免问题。

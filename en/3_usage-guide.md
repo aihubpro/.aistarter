@@ -1,3 +1,5 @@
+[中文](../zh/3_usage-guide.md) | [English](../en/3_usage-guide.md)
+
 # 🚀 User Guide
 
 ## ⚙️ Settings: Enable Developer Options

@@ -1,12 +1,10 @@
-# 多语言文档（Docsify）
+# AIStarter 文档索引
 
 > 仓库首页入口，支持中文 / English 快速跳转。
 
-- 中文（仓库内文件视图）：[zh/1_about.md](zh/1_about.md)
-- English (Repo file view): [en/1_about.md](en/1_about.md)
+- 快速入口： [中文](zh/1_about.md) | [English](en/1_about.md)
 
-- 中文（GitHub Pages 站点）：`https://<你的用户名>.github.io/<仓库名>/#/zh/1_about.md`
-- English (GitHub Pages): `https://<你的用户名>.github.io/<仓库名>/#/en/1_about.md`
+
 
 ## 目录（中文）
 - [简介](zh/1_about.md)
@@ -33,4 +31,4 @@
 - 若你将文档放在项目的 `docs/` 子目录下，请在项目根的 `README.md` 使用如下链接：
   - 中文（仓库内文件视图）：`docs/zh/1_about.md`
   - English (Repo file view): `docs/en/1_about.md`
-  - GitHub Pages：`https://<你的用户名>.github.io/<仓库名>/` 并在 Pages 设置中将 `Folder` 选择为 `/docs`。
+  - 若在项目根 `README.md` 引用，请在链接前加 `docs/` 前缀（示例见上）。

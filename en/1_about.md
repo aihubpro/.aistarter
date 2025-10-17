@@ -74,7 +74,9 @@ Community contributions to plugins, models, apps, and workflows are welcome.
 ### WeChat Group
 Scan the QR code below to follow the AIStarter official account for updates:
 
-![AIStarter WeChat QR](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg "width=240 height=240")
+[<img src="https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg"
+    alt="Get it on F-Droid"
+    height="240">](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg)
 
 To join: add WeChat `zhongnuanxiong` and note “AIStarter group”. Due to QR code expiration limits, admins will invite you into the group.
 

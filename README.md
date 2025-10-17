@@ -76,7 +76,7 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 
 [<img src="https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg"
     alt="Get it on F-Droid"
-    height="80">](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg)
+    height="240">](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg)
 
 加群方式：添加微信 `zhongnuanxiong`，备注“AIStarter交流”。因微信群二维码有效期限制，管理员将统一邀请入群。
 

@@ -15,10 +15,7 @@ AIStarter 是一个面向未来的 **AI管理平台**。
 > “桌面版赋能个人，服务器版赋能企业。”  
 > *The Desktop Edition empowers individuals; the Server Edition empowers teams.*
 
-<a href="#" class="not-prose inline-block" aria-label="查看图集"
-   data-images="./assets/首页.png, ./assets/市场.png, ./assets/设置.png, ./assets/文件.png">
-    <img src="./assets/首页.png" alt="预览图 1"/>
-</a>
+![AIStarter界面](https://github.com/aihubpro/.aistarter/blob/main/assets/%E9%A6%96%E9%A1%B5.png)
 
 
 ## ⚙️ 主要特性
@@ -87,4 +84,5 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 - 创作者技术支持
 - 项目打包指导
 - 共创合作机会
+
 - 用户经验分享

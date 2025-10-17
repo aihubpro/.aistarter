@@ -1,3 +1,14 @@
+## 📚 文档索引
+
+- [简介](1_about.md)
+- [下载与安装](2_download-installation.md)
+  - [Windows](download-installation/windows.md)
+  - [macOS](download-installation/mac.md)
+  - [Linux](download-installation/linux.md)
+- [使用指南](3_usage-guide.md)
+- [应用市场目录](4_marketplace-catalog.md)
+- [AI 服务面板](5_ai-server-panel.md)
+
 [中文](../zh/1_about.md) | [English](../en/1_about.md)
 
 # 🧭 关于 AIStarter
@@ -86,17 +97,3 @@ AIStarter 基于多个开源 AI 框架集成与优化，
 - 项目打包指导
 - 共创合作机会
 - 用户经验分享
-
----
-
-## 📚 文档索引
-
-- [简介](1_about.md)
-- [下载与安装](2_download-installation.md)
-  - [Windows](download-installation/windows.md)
-  - [macOS](download-installation/mac.md)
-  - [Linux](download-installation/linux.md)
-- [使用指南](3_usage-guide.md)
-- [应用市场目录](4_marketplace-catalog.md)
-- [AI 服务面板](5_ai-server-panel.md)
-

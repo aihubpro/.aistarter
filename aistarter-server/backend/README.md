@@ -136,4 +136,4 @@ npm start
 
 ## License
 
-MIT
+Apache License 2.0

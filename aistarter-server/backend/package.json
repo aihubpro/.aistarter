@@ -2,7 +2,7 @@
   "name": "aistarter-mysql",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "nodemon --require dotenv/config src/index",
     "start": "node src/index"

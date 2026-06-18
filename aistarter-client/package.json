@@ -135,5 +135,5 @@
     "vite-ssg": "^0.23.7",
     "vue-tsc": "^2.0.22"
   },
-  "license": "MIT"
+  "license": "Apache-2.0"
 }

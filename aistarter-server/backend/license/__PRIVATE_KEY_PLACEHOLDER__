@@ -1,8 +1,0 @@
-请替换为你自己生成的 RSA 私钥文件 (private_key.pem)
-
-生成命令:
-  openssl genrsa -out license/private_key.pem 2048
-
-生成后, 将私钥文件命名为 private_key.pem 放在 license/ 目录下,
-然后执行以下命令提取公钥写入 .env 文件:
-  openssl rsa -in license/private_key.pem -pubout

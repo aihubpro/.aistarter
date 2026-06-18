@@ -1,7 +1,0 @@
-License 文件 (license.json) 会在首次启动后通过管理后台自动生成。
-
-操作步骤:
-1. 启动项目: npm start
-2. 访问管理后台: http://localhost:7000/admin
-3. 进入 系统管理 -> 系统设置 -> License 管理
-4. 使用 RSA 私钥生成 License 文件

@@ -1,0 +1,26 @@
+{
+  "name": "wechatpay-nodejs-sdk",
+  "version": "0.0.7",
+  "description": "A Node.js library for WeChat Pay integration.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangrenyang/wechatpay-nodejs-sdk.git"
+  },
+  "keywords": [
+    "wechat",
+    "wechatpay",
+    "payment",
+    "node"
+  ],
+  "author": "zhang_renyang@126.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangrenyang/wechatpay-nodejs-sdk/issues"
+  },
+  "homepage": "https://github.com/zhangrenyang/wechatpay-nodejs-sdk#readme",
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "axios": "^1.6.5"
+  }
+}

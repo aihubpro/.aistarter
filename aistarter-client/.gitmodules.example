@@ -1,0 +1,13 @@
+# Git 子模块配置示例（原始文件已从开源仓库中移除）
+#
+# 原始文件：.gitmodules
+#
+# 说明：
+#   原始配置指向了私有 Gitea 仓库，已从开源仓库中移除。
+#   如果你需要使用 git 子模块，请复制此文件为 .gitmodules
+#   并替换为你的公开仓库地址。
+#
+# 示例：
+#   [submodule "src"]
+#   	path = src
+#   	url = https://github.com/YOUR_USERNAME/YOUR_REPO.git

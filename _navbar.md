@@ -1,2 +1,0 @@
-- [中文](#/zh/1_about.md)
-- [English](#/en/1_about.md)

@@ -1,0 +1,694 @@
+{
+  "tab_list":[
+    {
+      "id": "class",
+      "label": "AI应用",
+      "lanKey": "app.market_filter_class"
+    },
+    {
+      "id": "model",
+      "label": "模型",
+      "lanKey": "app.market_filter_model"
+    },
+    {
+      "id": "plugin",
+      "label": "插件",
+      "lanKey": "app.market_filter_plugin"
+    },
+    {
+      "id": "workflow",
+      "label": "工作流",
+      "lanKey": "app.market_filter_workflow"
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "lanKey": "app.market_filter_other"
+    }
+  ],
+  "app": [
+    {
+      "id": "price",
+      "label": "价格",
+      "lanKey": "app.market_filter_price",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "免费",
+          "lanKey": "app.market_filter_price_free"
+        },
+        {
+          "value": "2",
+          "label": "收费",
+          "lanKey": "app.market_filter_price_paid"
+        },
+        {
+          "value": "3",
+          "label": "VIP专项",
+          "lanKey": "app.market_filter_price_vip"
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "label": "硬件类型",
+      "lanKey": "app.market_filter_hardware",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "CPU",
+          "lanKey": "app.market_filter_hardware_cpu",
+          "label2":"x86",
+          "hidden": false
+        },
+        {
+          "value": "2",
+          "label": "N卡",
+          "lanKey": "app.market_filter_hardware_nvidia",
+          "label2":"arm",
+          "hidden": false
+        },
+        {
+          "value": "3",
+          "label": "A卡",
+          "lanKey": "app.market_filter_hardware_amd",
+          "label2":"",
+          "hidden": true
+        }
+      ]
+    },
+    {
+      "id": "class",
+      "label": "AI应用",
+      "lanKey": "app.market_filter_class",
+      "type": "checkbox",
+      "hidden": false,
+      "projectModel":[],
+      "options": [
+        {
+          "value": "text",
+          "label": "文本",
+          "lanKey": "app.market_filter_class_text"
+        },
+        {
+          "value": "sound",
+          "label": "音频",
+          "lanKey": "app.market_filter_class_sound"
+        },
+        {
+          "value": "image",
+          "label": "图像",
+          "lanKey": "app.market_filter_class_image"
+        },
+        {
+          "value": "video",
+          "label": "视频",
+          "lanKey": "app.market_filter_class_video"
+        },
+        {
+          "value": "other",
+          "label": "其他",
+          "lanKey": "app.market_filter_other"
+        }
+      ]
+    }
+  ],
+  "model": [
+    {
+      "id": "price",
+      "label": "价格",
+      "lanKey": "app.market_filter_price",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "免费",
+          "lanKey": "app.market_filter_price_free"
+        },
+        {
+          "value": "2",
+          "label": "收费",
+          "lanKey": "app.market_filter_price_paid"
+        },
+        {
+          "value": "3",
+          "label": "VIP专项",
+          "lanKey": "app.market_filter_price_vip"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "label": "平台",
+      "lanKey": "app.market_filter_platform",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "win",
+          "label": "win",
+          "lanKey": ""
+        },
+        {
+          "value": "macos",
+          "label": "mac",
+          "lanKey": ""
+        },
+        {
+          "value": "linux",
+          "label": "linux",
+          "lanKey": ""
+        }
+      ]
+    },
+    {
+      "id":"tag",
+      "label": "标签",
+      "lanKey": "app.market_filter_tag",
+      "type": "radio",
+      "hidden": false,
+      "projectModel":"",
+      "submenu":true,
+      "options": [
+        {
+          "value":"text",
+          "label":"文本",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "GenAI",
+              "label": "GenAI",
+              "lanKey": ""
+            },
+            {
+              "value": "AutoNews",
+              "label": "AutoNews",
+              "lanKey": ""
+            },
+            {
+              "value": "ASR-Transcribe",
+              "label": "ASR-Transcribe",
+              "lanKey": ""
+            },
+            {
+              "value": "qwen",
+              "label": "Qwen",
+              "lanKey": ""
+            },
+            {
+              "value": "llama",
+              "label": "llama",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_text"
+        },
+        {
+          "value":"sound",
+          "label":"音频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "TTS",
+              "label": "TTS",
+              "lanKey": ""
+            },
+            {
+              "value": "SeedVC",
+              "label": "SeedVC",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_sound"
+        },
+        {
+          "value":"image",
+          "label":"图像",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "Stable Diffusion",
+              "label": "Stable Diffusion",
+              "lanKey": ""
+            },
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_image"
+        },
+        {
+          "value":"video",
+          "label":"视频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            },
+            {
+              "value": "Pictory",
+              "label": "Pictory",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_video"
+        },
+        {
+          "value":"other",
+          "label":"其他",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[],
+          "lanKey":"app.market_filter_other"
+        }
+      ]
+    }
+  ],
+  "plugin": [
+    {
+      "id": "price",
+      "label": "价格",
+      "lanKey": "app.market_filter_price",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "免费",
+          "lanKey": "app.market_filter_price_free"
+        },
+        {
+          "value": "2",
+          "label": "收费",
+          "lanKey": "app.market_filter_price_paid"
+        },
+        {
+          "value": "3",
+          "label": "VIP专项",
+          "lanKey": "app.market_filter_price_vip"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "label": "平台",
+      "lanKey": "app.market_filter_platform",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "win",
+          "label": "win",
+          "lanKey": ""
+        },
+        {
+          "value": "macos",
+          "label": "mac",
+          "lanKey": ""
+        },
+        {
+          "value": "linux",
+          "label": "linux",
+          "lanKey": ""
+        }
+      ]
+    },
+    {
+      "id":"tag",
+      "label": "标签",
+      "lanKey": "app.market_filter_tag",
+      "type": "radio",
+      "hidden": false,
+      "projectModel":"",
+      "submenu":true,
+      "options": [
+        {
+          "value":"text",
+          "label":"文本",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "GenAI",
+              "label": "GenAI",
+              "lanKey": ""
+            },
+            {
+              "value": "AutoNews",
+              "label": "AutoNews",
+              "lanKey": ""
+            },
+            {
+              "value": "ASR-Transcribe",
+              "label": "ASR-Transcribe",
+              "lanKey": ""
+            },
+            {
+              "value": "qwen",
+              "label": "Qwen",
+              "lanKey": ""
+            },
+            {
+              "value": "llama",
+              "label": "llama",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_text"
+        },
+        {
+          "value":"sound",
+          "label":"音频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "TTS",
+              "label": "TTS",
+              "lanKey": ""
+            },
+            {
+              "value": "SeedVC",
+              "label": "SeedVC",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_sound"
+        },
+        {
+          "value":"image",
+          "label":"图像",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "Stable Diffusion",
+              "label": "Stable Diffusion",
+              "lanKey": ""
+            },
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_image"
+        },
+        {
+          "value":"video",
+          "label":"视频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            },
+            {
+              "value": "Pictory",
+              "label": "Pictory",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_video"
+        },
+        {
+          "value":"other",
+          "label":"其他",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[],
+          "lanKey":"app.market_filter_other"
+        }
+      ]
+    }
+  ],
+  "workflow": [
+    {
+      "id": "price",
+      "label": "价格",
+      "lanKey": "app.market_filter_price",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "免费",
+          "lanKey": "app.market_filter_price_free"
+        },
+        {
+          "value": "2",
+          "label": "收费",
+          "lanKey": "app.market_filter_price_paid"
+        },
+        {
+          "value": "3",
+          "label": "VIP专项",
+          "lanKey": "app.market_filter_price_vip"
+        }
+      ]
+    },
+    {
+      "id": "system",
+      "label": "平台",
+      "lanKey": "app.market_filter_platform",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "win",
+          "label": "win",
+          "lanKey": ""
+        },
+        {
+          "value": "macos",
+          "label": "mac",
+          "lanKey": ""
+        },
+        {
+          "value": "linux",
+          "label": "linux",
+          "lanKey": ""
+        }
+      ]
+    },
+    {
+      "id":"tag",
+      "label": "标签",
+      "lanKey": "app.market_filter_tag",
+      "type": "radio",
+      "hidden": false,
+      "projectModel":"",
+      "submenu":true,
+      "options": [
+        {
+          "value":"text",
+          "label":"文本",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "GenAI",
+              "label": "GenAI",
+              "lanKey": ""
+            },
+            {
+              "value": "AutoNews",
+              "label": "AutoNews",
+              "lanKey": ""
+            },
+            {
+              "value": "ASR-Transcribe",
+              "label": "ASR-Transcribe",
+              "lanKey": ""
+            },
+            {
+              "value": "qwen",
+              "label": "Qwen",
+              "lanKey": ""
+            },
+            {
+              "value": "llama",
+              "label": "llama",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_text"
+        },
+        {
+          "value":"sound",
+          "label":"音频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "TTS",
+              "label": "TTS",
+              "lanKey": ""
+            },
+            {
+              "value": "SeedVC",
+              "label": "SeedVC",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_sound"
+        },
+        {
+          "value":"image",
+          "label":"图像",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "Stable Diffusion",
+              "label": "Stable Diffusion",
+              "lanKey": ""
+            },
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            },
+            {
+              "value": "Coze",
+              "label": "Coze",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_image"
+        },
+        {
+          "value":"video",
+          "label":"视频",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[
+            {
+              "value": "ComfyUI",
+              "label": "ComfyUI",
+              "lanKey": ""
+            },
+            {
+              "value": "Pictory",
+              "label": "Pictory",
+              "lanKey": ""
+            }
+          ],
+          "lanKey":"app.market_filter_class_video"
+        },
+        {
+          "value":"other",
+          "label":"其他",
+          "type":"radio",
+          "shoptype":"checkbox",
+          "hidden": false,
+          "projectModel":[],
+          "submenu":false,
+          "options":[],
+          "lanKey":"app.market_filter_other"
+        }
+      ]
+    }
+  ],
+  "other": [
+    {
+      "id": "price",
+      "label": "价格",
+      "lanKey": "app.market_filter_price",
+      "type": "radio",
+      "hidden": true,
+      "projectModel":"",
+      "options": [
+        {
+          "value": "1",
+          "label": "免费",
+          "lanKey": "app.market_filter_price_free"
+        },
+        {
+          "value": "2",
+          "label": "收费",
+          "lanKey": "app.market_filter_price_paid"
+        },
+        {
+          "value": "3",
+          "label": "VIP专项",
+          "lanKey": "app.market_filter_price_vip"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "其他",
+      "lanKey": "app.market_filter_other",
+      "type": "checkbox",
+      "hidden": false,
+      "projectModel":[],
+      "options": []
+    }
+  ]
+}

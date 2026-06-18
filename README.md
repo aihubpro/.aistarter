@@ -1,99 +1,140 @@
-## 📚 文档索引
+# AIStarter (Legacy Edition) 经典留存版
 
-- [简介](zh/1_about.md)
-- [下载与安装](zh/2_download-installation.md)
-  - [Windows](zh/download-installation/windows.md)
-  - [macOS](zh/download-installation/mac.md)
-  - [Linux](zh/download-installation/linux.md)
-- [使用指南](zh/3_usage-guide.md)
-- [应用市场目录](zh/4_marketplace-catalog.md)
-- [AI 服务面板](zh/5_ai-server-panel.md)
+**🎉 AIStarter 经典留存版已正式开源**
 
-# 🧭 关于 AIStarter
-[中文](zh/1_about.md) | [English](en/1_about.md)
+本仓库用于整理 AIStarter 早期阶段的经典版本源码与依赖结构，全量移交并面向开发者社区开放，用于学习、研究与二次开发。
 
-AIStarter 是一个面向未来的 **AI管理平台**。  
-它让个人与企业能够快速部署、管理和使用各类 AI 工具、模型、插件与工作流等，无需复杂环境配置。
+随着产品演进，该版本已完成其历史使命，并作为关键技术阶段的留存版本持续开放。
 
-- **桌面版（Desktop Edition）**：  
-  为个人用户设计，专注于高效与易用，帮助创作者、设计师、程序员实现本地 AI 工作流。
+---
 
-- **服务器版（Server Edition）**：  
-  面向团队与企业，支持多用户管理、远程任务调度与 AI 服务统一面板部署（开发中）。  
-  旨在为工作室、企业及 AI 服务提供商提供集中化运维与管理能力。
+## 🚀 启动科技 AI 生态演进
 
-> “桌面版赋能个人，服务器版赋能企业。”  
-> *The Desktop Edition empowers individuals; the Server Edition empowers teams.*
+在持续推进 AI 基础设施与桌面端技术演进的过程中，启动科技的下一代产品矩阵已全面展开：
 
-![AIStarter界面](https://github.com/aihubpro/.aistarter/blob/main/assets/%E9%A6%96%E9%A1%B5.png)
+- ⚡ **PanelAI（Beta）**
+  面向 AI 时代的服务器面板与基础设施平台，提供极简的模型私有化部署与运行环境管理，并深度聚焦 CPU/GPU 算力调度、AI 项目运营与算力变现，打通从“技术基建”到“商业收益”的完整闭环。  
+  https://www.panelai.cn
 
+- 🛠️ **下一代 AIStarter 架构重构**
+  基于经典版本的历史运行反馈，下一代 AIStarter 将采用全新的技术路线与架构规划，推进底层重构与工程体系统一（统一架构、统一语言、尽可能统一），并在跨平台运行效率、环境隔离与可维护性上实现跃迁。
 
-## ⚙️ 主要特性
+---
 
-- 🧩 一键启动所有主流 AI 应用（Ollama、ComfyUI、SD WebUI、RVC 等）  
-- 🪶 虚拟环境隔离，防止依赖冲突，可复制到任意电脑直接运行  
-- ⚡ GPU / CPU 自动识别与切换  
-- 🧠 模型自动管理与分类加载  
-- 🧰 内置插件与工作流市场  
-- 🌐 支持离线运行与本地模型调用  
-- 🪄 支持 AI 项目组合、自动化工作流与自定义节点  
-- 🖥️ 跨平台支持（Windows / macOS / Linux）  
-- 🔒 数据隐私安全：所有任务在本地执行，不上传至云端  
+## 🌍 官方矩阵
 
-## 💻 适用平台
+- AIStarter 官网（国内）：https://www.starter.top
+- AIStarter 官网（国际）：https://www.starter.one
+- PanelAI 官网：https://www.panelai.cn
+- 启动科技官网：https://www.qidong.ai
 
-AIStarter 提供跨平台支持，确保不同用户环境下都能流畅运行。
+---
 
-| 平台 / Platform | 兼容架构 | 状态 |
-|------------------|-----------|------|
-| **Windows** | x64 | ✅ 稳定支持 |
-| **MacOS** | x86 (Intel) / arm64 (M系列) | ✅ 稳定支持 |
-| **Linux** | Ubuntu / Debian / Arch / Fedora | ✅ 稳定支持 |
+## 📖 项目概述
 
-> AIStarter 在所有平台上均支持 GPU 加速与离线模式。  
+AIStarter Legacy Edition 是 AIStarter 早期阶段的重要技术基石，提供完整的桌面端 AI 项目管理与运行能力，包括：
 
-## 🧑‍💻 贡献与开源地址
+- AI 项目安装与管理
+- 自动化运行环境处理
+- 启动脚本与任务编排
+- 本地化 AI 工具集成能力
 
-AIStarter 基于多个开源 AI 框架集成与优化，  
-我们欢迎社区开发者参与插件、模型、应用和工作流的共建。  
+本版本以开源形式独立存在，便于极客与开发者学习与研究。随着技术的不断演进，后续新版本将采用全新的技术路线与架构规划，与当前留存版保持不同的演进方向。
 
-- 🧭 **GitHub:** [https://github.com/aihubpro/.aistarter](https://github.com/aihubpro/.aistarter)  
-- 🧭 **Gitee:** [https://gitee.com/qidong_ai/aistarter](https://gitee.com/qidong_ai/aistarter)  
-- 🌐 **官方网站 / Official Websites:**  
-  - [https://www.qidong.ai](https://www.qidong.ai)  
-  - [https://www.starter.top](https://www.starter.top)  
-  - [https://www.aistarter.cc](https://www.aistarter.cc)  
-  - [https://www.starter.one](https://www.starter.one)  
-- 🌍 **国际站 / Global:** [https://www.starter.one](https://www.starter.one)  
-- 💬 **交流社区 / Community:** [https://www.aihubpro.cn](https://www.aihubpro.cn)  
-- 🎬 **视频平台 / Video Platforms:** [Bilibili](https://space.bilibili.com/303738964) ｜ [YouTube](https://www.youtube.com/@qidong_ai)
+---
 
-## 💬 交流群
+## 🛠️ 模块与技术栈
 
-### QQ 交流群（免费用户）
-- 群号：786984223（已满）  
-- 群号：29136742（已满）  
-- 群号：26489183（已满）  
-- 群号：192033165（可加）  
-- 群号：192032893（可加）  
+项目采用多模块分离结构：
 
-### QQ 会员群（仅限付费用户）
-- 群号：613697676  
-- 群号：256435360  
-- 群号：206174796  
+- **Desktop（桌面客户端）**
+  Electron + Vue 3 + Vite + Element Plus + Pinia + Vue Router
 
-### 微信交流群
-扫描下方二维码，关注 AIStarter 公众号，获取最新版本与活动更新：
+- **Admin（管理后台）**
+  Vue 3 + Vite + Ant Design Vue + Pinia + Vue Router
 
-[<img src="https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg"
-    alt="Get it on F-Droid"
-    height="240">](https://www.aihubpro.cn/wp-content/uploads/2024/10/qrcode_for_gh_993720dca2a1_860.jpg)
+- **Server（服务端核心）**
+  Node.js + Express + MySQL + WebSocket
 
-加群方式：添加微信 `zhongnuanxiong`，备注“AIStarter交流”。因微信群二维码有效期限制，管理员将统一邀请入群。
+完整依赖清单请参考根目录下的 [DEPENDENCIES.md](./DEPENDENCIES.md)。
 
-群内你将获得：
-- 最新版本通知
-- 创作者技术支持
-- 项目打包指导
-- 共创合作机会
-- 用户经验分享
+---
+
+## 💻 快速开始
+
+本项目为多模块架构，请分别进入对应目录安装与运行各子系统。
+
+### 1) 克隆项目
+
+```bash
+git clone https://github.com/<your-org-or-name>/<repo>.git
+cd <repo>
+```
+
+### 2) 安装依赖（各模块独立安装）
+
+```bash
+# 桌面客户端 (Desktop)
+cd aistarter-client
+npm install
+
+# 管理后台 (Admin)
+cd ../aistarter-server/frontend
+npm install
+
+# 服务端 (Server)
+cd ../aistarter-server/backend
+npm install
+```
+
+### 3) 环境变量配置
+
+请在各服务端/客户端目录下复制环境配置模板并填入您的真实参数：
+
+```bash
+cp .env.example .env
+```
+
+Windows PowerShell 可使用：
+
+```powershell
+Copy-Item .env.example .env
+```
+
+### 4) 本地运行
+
+```bash
+# 启动桌面端
+cd aistarter-client
+npm run dev
+
+# 启动管理后台
+cd ../aistarter-server/frontend
+npm run dev
+
+# 启动服务端
+cd ../aistarter-server/backend
+npm run dev
+```
+
+### 5) 客户端打包构建
+
+```bash
+cd aistarter-client
+npm run build
+```
+
+---
+
+## ⚖️ 合规与免责声明
+
+- 开源协议：本项目采用 MIT License 发布，详情请见仓库根目录的 `LICENSE` 文件。
+- 第三方依赖：本项目使用的第三方框架、组件与 SDK 等，其版权与许可均归原作者/组织所有。核心第三方组件声明请见 [THIRD-PARTY-NOTICES.md](./THIRD-PARTY-NOTICES.md)。二次分发与商业部署前，请自行核对合规要求。
+- 商标与品牌：AIStarter、PanelAI 及 启动科技 等名称、Logo 与相关品牌权益均归属官方所有。基于本项目进行 Fork 或衍生开发时，请移除官方品牌标识，避免任何误导性宣传或官方关联暗示。
+- 风险提示（AS IS）：本项目按“现状”提供。在生产环境使用前，请自行完成安全评估、依赖升级与漏洞修复。因使用、部署及二次开发本项目产生的任何合规、数据、技术故障与第三方授权纠纷，均由使用者自行承担，官方不提供相关担保。
+
+---
+
+## 🙌 致敬开源
+
+AIStarter Legacy Edition 作为历史版本的积累，将继续作为开源技术资产存在。未来的技术演进将围绕更现代化的工程体系持续推进，期待与更多开发者在 AI 时代的软件生态中相遇。
